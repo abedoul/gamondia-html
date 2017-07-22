@@ -1,0 +1,30 @@
+h2.post-title, 
+h1.post-title {
+	font-size: 180%;
+	font-family: "Roboto Condensed";
+	color: #666;
+	float: Center;
+	text-align: center;
+	}
+.menu, 
+.nav-menu, 
+#header-wrapper, 
+.nav-menu2, 
+.toggleMenu, 
+.dropdowns, 
+.breadcrumbs, 
+#sidebar-wrapper {
+	display: none;
+	}
+#wrapper {
+	max-width: 760px;
+	margin: 15px auto;
+	box-shadow: 0 0 0 1px #e3e3e3;
+	}
+#post-wrapper {
+	max-width:760px;
+	width: 100%;
+	}
+.post-container {
+	padding : 10px 5px 5px 5px
+	}
