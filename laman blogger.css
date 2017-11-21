@@ -5,7 +5,7 @@ h1.post-title {
 	color: #666;
 	float: Center;
 	text-align: center;
-	}
+}
 .menu, 
 .nav-menu, 
 #header-wrapper, 
@@ -13,18 +13,27 @@ h1.post-title {
 .toggleMenu, 
 .dropdowns, 
 .breadcrumbs, 
-#sidebar-wrapper {
+#sidebar-wrapper,
+#bottombar,
+#footer-wrapper {
 	display: none;
-	}
+}
 #wrapper {
-	max-width: 760px;
-	margin: 15px auto;
-	box-shadow: 0 0 0 1px #e3e3e3;
-	}
+	max-width: 790px;
+	background: transparent;
+	margin: 0 auto;
+	box-shadow: none;
+	padding: 0 auto;
+}
 #post-wrapper {
-	max-width:760px;
+	max-width:790px;
 	width: 100%;
-	}
+}
 .post-container {
-	padding : 10px 5px 5px 5px
+	padding : 0;
 	}
+.post { 
+	margin: auto 0;
+	padding: 50px;
+	border-radius: 5px;
+}
