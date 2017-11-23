@@ -59,3 +59,12 @@
 	border:2px solid #d4d4d4;
 	color:#2e3138
 }
+.long-shadow .sitemapl {
+	border: 2px solid transparent;
+	background: #e74c3c;
+	text-shadow: 0 0 #d14334,1px 1px #d14334,2px 2px #d14334,3px 3px #d14334,4px 4px #d14334,5px 5px #d14334,6px 6px #d14334,7px 7px #d14334,8px 8px #d14334,9px 9px #d14334,10px 10px #d14334,11px 11px #d14334,12px 12px #d14334,13px 13px #d14334,14px 14px #d14334,15px 15px #d14334,16px 16px #d14334,17px 17px #d14334,18px 18px #d14334,19px 19px #d14334,20px 20px #d14334,21px 21px #d14334,22px 22px #d14334,23px 23px #d14334,24px 24px #d14334,25px 25px #d14334,26px 26px #d14334,27px 27px #d14334,28px 28px #d14334,29px 29px #d14334,30px 30px #d14334
+}
+.long-shadow .sitemapl:hover {
+	border:2px solid #d4d4d4;
+	color:#2e3138
+}
