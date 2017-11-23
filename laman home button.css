@@ -1,0 +1,50 @@
+<style type="text/css">
+.gamondia-bottom-icon {
+	padding: 0;
+	list-style: none;
+	display: inline-block;
+	margin: 10px auto;
+	position: Center;
+}
+.gamondia-bottom-icon li {
+	display: inline-block
+}
+.gamondia-bottom-icon a {
+	display: inline-block;
+	float: center;
+	width: 68px;
+	height: 32px;
+	font-size: 18px;
+	color: #FFF;
+	text-decoration: none;
+	cursor: pointer;
+	text-align: center;
+	line-height: 30px;
+	background: #000;
+	position: relative;
+	transition: .5s
+}
+.long-shadow a {
+	overflow: hidden;
+	font-size: 18px;
+	border-radius: 4px;
+	margin: 0 5px
+}
+.long-shadow a:hover {
+	background: #fff;
+	text-shadow: 0 0 #d4d4d4,1px 1px #d4d4d4,2px 2px #d4d4d4,3px 3px #d4d4d4,4px 4px #d4d4d4,5px 5px #d4d4d4,6px 6px #d4d4d4,7px 7px #d4d4d4,8px 8px #d4d4d4,9px 9px #d4d4d4,10px 10px #d4d4d4,11px 11px #d4d4d4,12px 12px #d4d4d4,13px 13px #d4d4d4,14px 14px #d4d4d4,15px 15px #d4d4d4,16px 16px #d4d4d4,17px 17px #d4d4d4,18px 18px #d4d4d4,19px 19px #d4d4d4,20px 20px #d4d4d4,21px 21px #d4d4d4,22px 22px #d4d4d4,23px 23px #d4d4d4,24px 24px #d4d4d4,25px 25px #d4d4d4,26px 26px #d4d4d4,27px 27px #d4d4d4,28px 28px #d4d4d4,29px 29px #d4d4d4,30px 30px #d4d4d4
+}
+
+.long-shadow .backhome2 {
+	border: 2px solid transparent;
+	background: #19abea;
+	text-shadow: 0 0 #1898cf,1px 1px #1898cf,2px 2px #1898cf,3px 3px #1898cf,4px 4px #1898cf,5px 5px #1898cf,6px 6px #1898cf,7px 7px #1898cf,8px 8px #1898cf,9px 9px #1898cf,10px 10px #1898cf,11px 11px #1898cf,12px 12px #1898cf,13px 13px #1898cf,14px 14px #1898cf,15px 15px #1898cf,16px 16px #1898cf,17px 17px #1898cf,18px 18px #1898cf,19px 19px #1898cf,20px 20px #1898cf,21px 21px #1898cf,22px 22px #1898cf,23px 23px #1898cf,24px 24px #1898cf,25px 25px #1898cf,26px 26px #1898cf,27px 27px #1898cf,28px 28px #1898cf,29px 29px #1898cf,30px 30px #1898cf
+}
+.long-shadow .backhome2:hover {
+	border:2px solid #d4d4d4;
+	color:#2e3138
+}
+.back-to-top {
+	display: none;
+}
+</style>
