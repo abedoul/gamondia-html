@@ -16,7 +16,7 @@ h1.post-title {
 #sidebar-wrapper,
 #bottombar,
 #footer-wrapper,
-.largebanner, {
+.largebanner {
 	display: none;
 }
 #wrapper {
