@@ -15,7 +15,8 @@ h1.post-title {
 .breadcrumbs, 
 #sidebar-wrapper,
 #bottombar,
-#footer-wrapper {
+#footer-wrapper,
+.largebanner, {
 	display: none;
 }
 #wrapper {
